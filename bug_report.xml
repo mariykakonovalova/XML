@@ -1,1 +1,10 @@
-Create
+<summary>missing price in item</summary>
+ <Priority>Medium</Priority>
+ <Severity>Minor</Severity>
+ <Description>missing price in item</Description>
+ <Expected_Result>latest poducts section</Expected_Result>
+ <Actual_result>See the price in item</Actual_result>
+
+ <Steps_to_reproduse> 1 "Open http://store.demoga.com/"
+                      2 "go in the bottom All produkt" 
+                      3 "go to third item called "iPod Nano Blueand"and you will see $0.00 
